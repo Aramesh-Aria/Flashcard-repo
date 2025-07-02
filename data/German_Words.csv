@@ -1,11 +1,10 @@
-German,English
 Jahr,Year
 vielleicht,perhaps
 Februar,February
 nächsten,next
 August,August
 Verwandten,relatives
-thränke,potions
+Getränke,drinks
 Geschäfte,shops
 geschlossen,closed
 Familie,Family
@@ -16,9 +15,9 @@ müsst,have to
 kurz,short
 langweilig,boring
 diesen,this one
-Ausweis,ID
+Ausweis,ID Card
 Erwachsene,Adult
-wglchen,wish
+welchen,wish
 finden,find
 Horrorfilm,Horror film
 Wochenende,weekend
@@ -27,7 +26,7 @@ Freitag,Friday
 wohin,where
 schließt,closes
 Biergarten,Beer garden
-jedes,each
+jedes,all (every)
 hungrig,hungry
 Liter,liter
 Flaschen,bottles
@@ -38,24 +37,24 @@ Spinat,spinach
 Gemüse,vegetables
 weniger,fewer
 langsam,slow
-bekommt,receives
-Sauerkraut,sauerkraut
-Currywurst,Currywurst
+bekommt,receives (is getting)
+Sauerkraut,sauerkraut(some kind of food)
+Currywurst,Curry sausage
 Knödel,dumplings
 Mayo,Mayo
 Brezel,pretzel
-sharf,sharp
+scharf,Spicy (Hot)
+Senf,Mustard
 Eier,Eggs
 Nussallergie,Nut allergy
 ihn,him
-backen,bake
+backen,bakes
 Kartoffelsalat,potato salad
 nichts,nothing
-am,on
-besten,best
+am besten,the best
 Dezember,December
 Obst,Fruit
-Eiskaffee,iced coffee
+Eiskaffee,ice cream coffee
 Dorf,Village
 Großmutter,Grandmother
 Großvater,Grandfather
@@ -66,6 +65,7 @@ Juni,June
 arbeitslos,unemployed
 Auge,Eye
 Auto,car
+japan,japan
 Motorrad,motorcycle
 reisen,travel
 brav,well-behaved
@@ -75,25 +75,20 @@ Praktikum,Internship
 Job,job
 Schildkröte,Turtle
 Geschwister,Siblings
-ihren,your
+ihren,their
 reich,rich
-Freizeit,Leisure time
-Bgamter,Bgamter
-SORT,SORT
-HS,H.S
-hren,hear
-Freieit,Freedom
-Beamter,official
-seinen,his
+Freizeit,free time
+Beamter,Civil servant(public official)
+seinen,with their(her-their)
 Haus,House
 zufrieden,satisfied
-Beamtin,civil servant
+Beamtin,civil servant(public official)
 kaputt,broken
 Fenster,Window
-nternet,internet
+Internet,internet
 Tür,door
 Dusche,Shower
-funktioniert,functions
+funktioniert,works(functions)
 Frühstück,Breakfast
 Sessel,Armchair
 Rezeption,reception
@@ -101,18 +96,17 @@ Fernseher,TV
 Fitnessstudio,Gym
 Balkon,balcony
 Buchladen,Bookstore
-gibt,gives
-es,it
+gibt es,there is-are
 Flughafen,Airport
 Strand,Beach
 Bar,Bear
-Ausflqg,Excursion
-SS,SS
+Ausflug,Excursion(tour)
+Schlüssel,key
 Zimmer,Room
 willkommen,welcome
 Ihren,Your
 Pass,passport
-nehme,take
+nehme,take(will have)
 Einzelzimmer,Single room
 Nacht,Night
 Doppelzimmer,Double room
@@ -124,7 +118,7 @@ weich,soft
 Pflanzen,Plant
 Bettdecke,Bed cover
 Esszimmer,dining room
-SE,SE
+Stühle,chairs
 Küche,kitchen
 schmutzig,dirty
 Kühlschrank,refrigerator
@@ -134,64 +128,65 @@ Kaffeetisch,Coffee table
 Regal,shelf
 Wohnzimmer,Living room
 Sofa,sofa
+Blumen,flowers
+Vase,vase
 Nachbar,Neighbor
-Nachbarip,Neighborip
+Nachbarin,Neighbor
 unser,our
-wgiß,I don't know
+weiß,white
 leise,quiet
-Uunsere,Ours
+Unsere,Ours
 Schwarz,Black
+Treppe,stairs
 Mehrfamilienhaus,Apartment building
 Garten,Garden
 zurzeit,currently
 allein,alone
-wohnen,reside
-sonntags,Sunday
+wohnen,live(are living)
+sonntag,Sunday
 Reis,rice
 Hähnchen,Chicken
 Nudeln,Noodles
 freitgs,Fridays
 Freundinnen,girlfriends
-ZUM,FOR THE
-Abendessen,Dinner
+Zum Abendessen,for Dinner
 Büro,Office
 Kollegen,Colleagues
 Schinken,Ham
 Tasse,cup
-Brötchen,Buns
-Mittagessen,Lunch
-treffe,meet
-jede,every
+Brötchen,roll(Bread roll)
+Zum Mittagessen,for Lunch
+treffe,am meeting
+jede,every(all)
 triffst,meet
-trifft,hits
+trifft,is meeting
 Donnerstag,Thursday
 Banane,banana
-morgens,morning
+morgens,in the mornings
 Müsli,Cereal
-7UM,7UM
+zum frühstück,for breaksfast
 isst,eats
+pro,per
 Yoga,yoga
+Abends,in the evenings
 einmal,once
 Joghurt,yogurt
-zum,for the
-abends,at evening
 Sport,sport
-wie,How
-oft,often
+wie oft,How often
 früh,early
 noch,still
-gute,good
+gute Nacht,good night
 Viertel,Quarter
-bis,until
-morgen,morning
+bis morgen,until morning
 Leute,People
 Pommes,Fries
 Handy,cell phone
 Musik,Music
 Band,band
-schmecken,taste good
+schmecken,taste
 hören,hear
-Wiesn-Herz,Oktoberfest heart
+uns,us
+Wiesn-Herz,Oktoberfest heart(heart cookie)
 Riesenrad,Ferris wheel
 Weißbier,Wheat beer
 sehe,see
@@ -204,6 +199,7 @@ endet,ends
 Oktoberfest,Oktoberfest
 beliebt,popular
 Spaß,Fun
+zum Oktoberfest, to oktoberfest
 wollen,want
 lieben,love
 Kanadierin,Canadian
@@ -211,8 +207,8 @@ Studenten,students
 freundlich,friendly
 Kanadier,Canadian
 lebt,lives
-seid,are
-seine,his
+seid,did(have-be)
+seine,your(her-his)
 Eltern,Parents
 ihre,her
 Deutsche,German
@@ -236,22 +232,20 @@ Jahre,Years
 neunzehn,nineteen
 studieren,study
 glücklich,happy
-Besserung,improvement
-hurra,hurrah
+gute Besserung,feel better
+hurra,hurray
 gesund,healthy
 mehr,more
 Zahnschmerzen,Toothache
-im,in the
-Bett,Bed
+im Bett,in bed
 schlafen,sleep
 Fieber,Fever
-Bauchschmerzen,stomach pain
+Bauchschmerzen,stomachache
 müssen,have to
-bleiben,remain
+bleiben,remain(stay)
 Name,name
 siebzehn,seventeen
-viel,much
-Uhr,Clock
+wie viel Uhr,what time
 machen,make
 sechzehn,sixteen
 Termin,Appointment
@@ -261,7 +255,8 @@ iss,eat
 Kopfschmerzen,Headache
 Krankenhaus,hospital
 trink,drink
-schlafe,temple
+schlafe,sleep
+viel,much
 müde,tired
 traurig,sad
 nachts,at night
@@ -275,41 +270,38 @@ schon,already
 Pläne,Plans
 lernen,learn
 grillen,grill
-wollt,wanted
+wollt,want(wish)
 Woche,Week
 Wald,Forest
 Hexe,Witch
 campe,camp
 Podcasts,Podcasts
-hört,hard
+hört,hears
 Jazz,jazz
 Videospiele,Video games
-willst,want
-höre,hear
+willst,want to
+höre,listening-hear
 Geige,violin
-Film,film
+Film,Movie
 Tennis,tennis
 Instrument,instrument
-tanzt,dances
+tanzt,is dancing-dances
 Gitarre,guitar
 tanzen,dance
 Hobbys,Hobbies
 surfen,surfing
 tanze,dance
-zu,to
-Hause,home
+zu Haise,at Home
 könnt,can
 feiert,celebrates
 feiern,celebrate
 macht,might
-möchtet,would like
+möchtet,would like to
 Einladung,Invitation
 ihr,her
-auf,on
-jeden,every
-Fall,case
+auf jeden Fall,definitely
 Picknick,picnic
-IT,I.T
+juli,july
 kannst,can
 siebten,seventh
 zehnten,tenth
@@ -320,21 +312,20 @@ Party,party
 Mai,May
 mache,make
 Geburtstag,Birthday
+morgen,tomorrow
 ersten,first
 März,March
 April,April
 Taxi,taxi
-ET,ET
 Straße,street
 wiederholen,repeat
 Adresse,address
-Hotel,hotel
-alles,everything
-Gute,Good
-lange,long
+bis zum Hotel,to the hotel
+alles gutte,take care
+wie lange,how long
 dauert,lasts
 vierzehn,fourteen
-Fuß,foot
+zu Fuß,by foot
 Taxifahrt,Taxi ride
 warten,wait
 dreizehn,thirteen
@@ -345,16 +336,13 @@ zwölf,twelve
 fahren,drive
 Bus,bus
 fünfzehn,fifteen
-circa,approx
+circa,approximately
 dann,then
 geradeaus,straight ahead
 besuchen,visit
 Stadtmuseum,City Museum
-Fluss,Flow
+Fluss,river
 Stadtzentrum,City center
-Load,Load
-more,more
-cCirca,cApprox
 sehen,see
 Z00,Z00
 Kunstmuseum,Art Museum
@@ -362,57 +350,60 @@ bar,bear
 zusammen,together
 fünfunddreißig,thirty-five
 fünfundzwanzig,twenty-five
-getrennt,separated
+getrennt,separately
 Obstsalat,Fruit salad
 Zucker,Sugar
 ohne,without
-Eis,Ice
+Eis,Ice cream
 Apfelkuchen,Apple pie
-guten,good
-Appetit,appetite
+nachtisch,dessert
+guten Appetit,enjoy your meal
 Fleisch,Meat
 bestellen,order
 esse,eat
-uppe,oops
+Suppe,soup
 trinke,drink
-möchten,want
-mich,me
+möchten,would like to
+mich,me-myself
 Glas,Glass
 Rotwein,red wine
 trinken,drink
-Apfelschorle,Apple spritzer
-Lieber,Dear
+Apfelschorle,sparkling apple juice
+Lieber,kind-prefers
 griechisch,Greek
 später,later
+essen,eat
 Hunger,hunger
 italienisch,Italian
-keinen,none
+keinen hunger,not hungry
 frei,free
 Zugtür,Train door
 Speisewagen,Dining car
 Sitz,seat
 Station,station
-hinten,rear
-fällt,falls
+hinten,in the back
+fällt,fall
 können,can
 Kreditkarte,Credit card
 Reisezentrum,Travel center
 stornieren,cancel
 zahlen,pay
 Gleis,Track
-ICE,ICE
+ICE,ICE(intercity express)
 Verspätung,Delay
-Achtung,Danger
+Achtung,attention
+es gibt, there are
 Abfahrt,departure
 spät,late
 halb,half
 Minuten,minutes
-nach,after
+Uhr,clock
+zug,train
+genau,exactly
+nach,for-about-to
 dreißig,thirty
 kosten,cost
-Hin-,There-
-und,and
-Rückfahrt,Return journey
+Hin-und Rückfahrt,round-trip ticket
 Fahrkarte,ticket
 zwanzig,twenty
 Fahrkarten,Tickets
@@ -420,20 +411,20 @@ Toiletten,Toilets
 Schuhe,Shoes
 Aufzug,Elevator
 Pullover,Sweater
-schick,chic
+schick,stylish
 Jeans,jeans
 passt,fits
 Größe,Size
 T-shirt,T-shirt
 Hemd,Shirt
 Kleid,Dress
-Sakko,jacket
-suche,search
-musst,must
-aufgeregt,upset
-Bluse,Blouse
+Sakko,suit jacket
+suche,search(am looking for)
+musst,must(have to)
+aufgeregt,excited
+Bluse,Blouse-shirt
 kaufen,buy
-gehe,go
+gehe,am going
 Jobinterview,Job interview
 nervös,nervous
 Kaufhaus,department store
@@ -453,69 +444,75 @@ Schreibtisch,Desk
 Couch,couch
 Schlafzimmer,bedroom
 magst,like
-Schrank,Wardrobe
+Schrank,Wardrobe(closet)
 bequem,comfortable
 brauchen,need
 Teppich,Carpet
 den,the
+mag,like
 brauchst,need
 hässlich,ugly
 haben,have
+stuhl,chair
 Tisch,Table
 modern,modern
-geöffnet,opened
-Eintrittskarte,Entrance ticket
+bis,until
+geöffnet,open
+Eintrittskarte,admission(entry) ticket
 wann,When
-heute,today
-Nachmittag,Afternoon
-um,around
+heute Nachmittag,this afternoob
+um,for
 schade,too bad
 Spiel,Game
 Konzert,concert
-Da,There
-Abend,Evening
+am,by the
+heute Abend,this Evening
 Sonntag,Sunday
 Samstag,Saturday
 Zeit,Time
-schwimmen,to swim
+schwimmen,swim
 ins,into the
 Geld,Money
 Schwimmbad,Swimming pool
 gehen,go
 Freunde,Friends
-joggen,jog
-spielen,play
-singst,sing
-singt,sings
-singe,sing
+joggen,to jog
+joggen,to jog
+spielen,playing
+singst,sing-are singing
+gern,liked to
+singt,sings-is singing
+singe,sing-am singing
 fotografiere,take photos
-surft,surfs
-jogge,jog
+surft,goes surfing
+jogge,am jogging
 Basketball,basketball
-frühstückt,breakfast
+frühstückt,are eating breakfast
 Morgen,Morning
 Fußball,Football
 Volleyball,volleyball
 Urlaub,Vacation
-joggt,jogging
-surfe,surf
-surfst,surf
-frühstücke,breakfasts
+joggt,jogs-is jogging
+jeden,any-all
+tag,day
+surfe,surf-go surfing
+surfst,surf-go surfing
+frühstücke,am eating breakfast
 joggst,jogging
-DE,EN
-machst,do
-frühstückst,breakfast
+heute Morgen,this morning
+machst,work-are doing
+frühstückst,are eating breakfast
 warum,Why
 spricht,speaks
 lernt,learns
 Muttersprache,native language
 viele,many
 Russisch,Russian
-lernst,learn
-lerne,learn
+lernst,learn-are studying
+lerne,learn-am studying
 Spanisch,Spanish
-schnell,fast
-sprichst,speak
+schnell,quickly
+sprichst,speak-are speaking
 welche,which
 Sprachen,Languages
 Schwedisch,Swedish
@@ -523,63 +520,65 @@ schwer,difficult
 Ihr,Her
 Französisch,French
 sein,be
-einfach,simply
+einfach,easy
 toll,great
 Türkisch,Turkish
 Polnisch,Polish
-dünn,thin
+dünn,thin-slim
 perfekt,perfect
 kommt,comes
 Schnecke,Snail
 heißt,is called
 liebst,love
 Fisch,Fish
-Mitbewohnerin,flatmate
+Mitbewohnerin,roommate
 Partnerin,partner
+keinen,any-not any
 Partner,partner
 Mitbewohner,Roommates
 keine,no
-Oma,granny
+Oma,grandma
 Tante,aunt
 liebt,loves
+opa,grandpa
 deinen,yours
-meinen,mean
+meinen,mine
 hat,has
-einen,a
-Freund,Friend
+habe,have been
+Freund,boyfriend
 Onkel,Uncle
 warm,warm
 Sommer,Summer
-wandert,wanders
+wandert,hike
 Sonnencreme,Sunscreen
-wandere,hike
-wandern,hike
-wanderst,wander
+wandere,am hiking
+wandern,hiking
+wanderst,hiking-go hiking
 neblig,foggy
 Frühling,Spring
 Wasserflasche,Water bottle
 stark,strong
 jetzt,now
 Winter,winter
-schneit,snowing
+schneit,is snowing
 Herbst,Autumn
 habt,have
 windig,windy
 Regenschirm,umbrella
 schlecht,bad
-regnet,raining
+regnet,is raining
 sonnig,sunny
+huete,today
 Wetter,Weather
 bewölkt,cloudy
 Erdbeeren,Strawberries
-gern,gladly
-geschehen,happen
+gern geschehen,your welcome
 Kartoffeln,potatoes
-vielen,many
-Dank,Thanks to
+vielen Dank,thank you very much
 zehn,ten
 Döner,Doner kebab
 Tomaten,Tomatoes
+nuen,nine
 Kilo,kilo
 wirklich,really
 fünf,five
@@ -588,32 +587,32 @@ sechs,six
 Euro,euro
 von,from
 null,zero
+dollar,dollar
 kostet,costs
-oste,oste
 Orangen,Oranges
 Marktplatz,Marketplace
 drei,three
 eins,one
 zwei,two
-Anwalt,Attorney
+Anwalt,lawyer
 Russland,Russia
 Anwältin,Lawyer
 Schweden,Sweden
 Künstler,Artist
 lebst,live
-lebe,live
-leben,life
+lebe,am living
+leben,lived-living
 Polizist,policeman
 Schüler,students
 Deutsch,German
-spreche,speak
+spreche,am talking
 sprechen,speak
 Englisch,English
 kein,no
-freut,happy
+freut mich,nice to meet you
 heiße,hot
 heißen,are called
-kommen,come
+kommen,arrives
 sind,are
 Herr,Mister
 Sie,She
@@ -621,8 +620,7 @@ Kanzlerin,Chancellor
 U-Bahnstation,Subway station
 Geldautomat,ATM
 neu,new
-weit,far
-weg,away
+weit weg,far away
 Universität,University
 Kino,cinema
 rechts,right
@@ -631,40 +629,38 @@ Bäckerei,Bakery
 Supermarkt,supermarket
 ha,Ha
 Museum,museum
+hotel,hotel
 billig,cheap
 elegant,elegant
 Cafe,cafe
 alt,old
-in,in
-der,the
-Nähe,Proximity
+in der Nähe,nearby
 Kirche,Church
 Apotheke,Pharmacy
 Bibliothek,library
-Bahnhof,Railroad station
+Bahnhof,train station
 Markt,market
-da,there
-drüben,over there
+da drüben,over there
 Park,park
-Taxistand,Taxi rank
+Taxistand,Taxi stand
 Klavier,Piano
-spiele,games
-spielst,play
+spiele,am playing
+spielst,are playing
 Schach,Chess
-spielt,plays
-schwimmt,swims
-malt,paints
+spielt,is playing
+oft,often
+schwimmt,swim-is swimming
+malt,is drawing
 kocht,cooks
 immer,always
-schwimmst,you swim
-kochst,cook
+schwimmst,swim
+kochst,are cooking
 malst,paint
-eh,eh
 male,paint
 nie,never
 schwimme,swim
 manchmal,sometimes
-koche,cook
+koche,am cooking
 acht,eight
 Lehrerin,Teacher
 Arbeit,Work
@@ -672,12 +668,12 @@ Lehrer,Teacher
 interessant,interesting
 aber,but
 stressig,stressful
-Arzt,Physician
+Arzt,doctor
 Studentin,student
 Ärztin,doctor
-Student,Student
+Student,college Student
 Freundin,Girlfriend
-Beruf,Profession
+Beruf,job
 dein,your
 was,What
 Professorin,Professor
@@ -702,11 +698,11 @@ kommst,come
 Amerika,America
 Deutschland,Germany
 klein,small
-WEHEDE,WEHEDE
+kanada,canada
 wunderbar,wonderful
 Schnitzel,Schnitzel
 Rechnung,The invoice
-Essen,Eat
+Essen,food
 Wurst,Sausage
 Restaurant,restaurant
 Salz,Salt
@@ -719,30 +715,29 @@ Ei,egg
 Sandwich,sandwich
 hier,here
 heiß,hot
-lecker,yummy
+lecker,delicious
 Pizza,pizza
 mit,with
-SEIET,SEE
+salat,salad
 Käse,Cheese
-tut,does
-mir,me
-leid,sorrow
+bis später,see you later
+es tut mir leid,I am sorry
 natürlich,of course
-ehe,before
-bald,soon
+ehe,anyways
+bis bald,see you soon
 prost,cheers
-0K,0K
-Wiedersehen,Goodbye
-geht,goes
+auf Wiedersehen,Goodbye
+es geht,i'm all right
+gut,good
 sah,saw
-Tag,day
-gehts,it's okay
-Super,Super
+guten Tag,hello
+wie gehts,how are you
+Super,great
 Schnuller,dummy
 Kleinkind,Toddler
 Schlitten,Sleds
-Neujahr,New Year
-wünsche,wishes
+Neujahr,New Year's day
+wünsche,wishe
 Schokolade,Chocolate
 Weihnachtsmarkt,Christmas market
 frohe,happy
@@ -763,28 +758,34 @@ Liebe,Love
 kann,can
 süß,sweet
 deine,your
-möchte,would like
+möchte,would like to
 nächste,next
 darf,may
 dich,you
+wie,how
 das,the
-mal,just
+es,it
+aus,from
+mal,just-once
 nicht,not
 wir,we
+alles,everything
 Meister,Master
 sagt,says
 Bär,Bear
 Eule,Owl
 oh,Oh
 WO,WHERE
+maus,mouse
 Katze,Cat
 Elefant,elephant
 schön,beautiful
-jJung,jYoung
+jung,Young
 Hund,Dog
 Junge,Boy
-die,the
-lag,lay
+die,this
+der,this
+lag,lay-was laying
 nett,nice
 klug,smart
 groß,big
@@ -795,18 +796,22 @@ du,you
 bist,are
 Frau,Woman
 ach,Oh
+Mann,husband
 Bruder,Brother
 mein,my
 meine,mine
 Schwester,Sister
 Mutter,Mother
 bin,am
-eine,one
-ein,a
+eine,an-a
+ein,one
 vier,four
+ich,I
 Vater,Father
+ja,yes
 Bier,Beer
 oder,or
+tschüss,bye
 nein,no
 danke,Thanks
 Wasser,Water
@@ -817,3 +822,330 @@ hallo,Hello
 Kaffee,Coffee
 bitte,please
 Milch,Milk
+Geschenke,gifts
+salzig,salty
+Geburtstagskarte,Birthday card
+Äpfel,apples
+bringen,are bringing
+bringst,brings
+karotten,carrots
+mitbringen,bring along
+meunundneunzig,ninty-nine
+Luftballons,ballons
+bringe,am taking
+ganz bestimmt,definitely
+Pferd,horse
+plane,planning
+hoffen,hope
+kasse,cash register
+einen scönen tag noch,have a nice day
+Tüten,bags
+sechzig,sixty
+kassenzettel,receipt
+Tüte,bag
+hilfe,help
+Ihre,Your
+Biogurken,organic cucumbers
+Packung,package
+genug,enough
+Packungen,packs
+Kuchen,cake
+Stück,piece
+apfelsaft,apple juice
+Weißwein,white wine
+Flasche,bottle
+Metzgerei,butcher shop
+Konditorei,pastry shop
+Gurken,cucumbers
+Bioladen,health food store
+Blumenladen,florist
+kauf,buy
+gleich,shortly
+Gurke,cucumber
+orange,orange
+bananen,bananas
+mögen,likes
+einladen,invite
+braun,brown
+Sandalen,sandals
+Voll,Full
+Socken,socks
+wieder,again
+Waschen,Wash
+dieses,this
+vergiss,forget
+welches,which
+trage,am wearing
+diese,this one
+Tasche,bag
+Jacke,jacket
+einpacken,pack
+kleidung,clothes
+Badeanzug,swimsuit
+hut,hat
+Sonne,sun
+Scheint,appears-seems to be
+mach,make
+dort,there
+meer,sea
+Heute Nacht,tonight
+besser,better
+Nachbarn,Neighbors
+Mitternacht,midnight
+Mond,moon
+Tassen,cups
+Turnschuhe,gym Shoes
+Straßen,streets
+laufen,run
+nächstes,next
+nass,Wet
+Fahrrad,bicycle
+gelb,yellow
+fährt,driving
+fährst,are riding
+fahre,am traveling
+läuft,walks
+sportlich,athletic
+läufst,are going
+laufe,walking
+schläft,is sleeping
+wenig,a little
+denn,because
+Mittag,noon
+den ganzen tag,the wole day
+schläfst,sleep
+endlich,finally
+lass uns,let's
+bald,soon
+abholen,pickup
+Feierabend,end of the workday
+lesen,Read
+Pause,breakfast
+lang,long
+Buch,Book
+rauchen,to smoke
+Büros,offices
+kollege(kollegin),colleague
+eure,your
+arbeite,am working
+motiviert,motivated
+Frage,question
+Führerschein,driver's license
+Samstags,on saturdays
+Nachname,last name
+Handynummer,cell phone number
+Vorname,first name
+Lebenslauf,resume
+Pünktlich,punctual(on time)
+Touristen,tourists
+schloss,castle
+besichtigen,are touring
+Wörterbuch,dictionary
+Brille,glasses
+zweihundert,two hundread
+Kamera,camera
+öffnen,open
+grau,Gray
+koffer,suitcase
+lila,purple
+Rucksack,backpack
+verboten,prohibited
+zum Schalter,to counter
+richtig,correct
+kugelschreiber,pen
+Formular,form
+unterschreiben,sign
+zoll,customs office
+Wochen,weeks
+Flugnummer,flight number
+Visum,visa
+Jahr,Year
+semesterende,end of semester
+Ferien,vacations-break
+in den ferien,during the break
+nach hause,Home
+im Ausland,abroad
+fliegen,are flying
+hilfreich,helpful
+schatz,sweetheart
+ordentlich,tidy
+fertig,finished
+Hausarbeit,chores
+Apfel,apple
+Orangensaft,orange juice
+leer,empty
+Käsebrot,cheese sandwich
+Abendessen,Dinner
+unhöflich,rudde
+leiser,quieter
+am Telefon,on the phone
+sei,be
+Lebensmittel,groceries
+monat,Month
+zahl,pay
+faul,lazy
+Rechnungen,bills
+unordentlich,messy
+verärgert,angry
+Miete,Rent
+putzt,cleans
+zuerst,first
+euren,your
+fündundvierzig,forty-five
+putzen,clean
+holt,pick up
+früher,eralier
+hole,am getting
+wen,Whom
+holst,get
+ab,starting
+Bitte,request
+am Strand,on the Beach
+wärmer,warmer
+Tage,days
+Schweiz,Switzerland
+Türkei,turkey
+ein paar,a few
+liegen,are lying
+Zeitungen,newspapers
+liest,Read
+cooler,cooler
+denken,are thinking
+fern,away-TV
+die ganz Zeit,the whole time
+Fersehserien,TV shows
+draußen,outside
+Karten,cards
+nach der schule,after School
+nach der Arbeit,after work
+siehst,see
+Filme,movies
+Dokufilme,documentaries
+sieht,watching
+spazieren,for a walk
+bei schönem Wetter,during nice Weather
+Sekt,champagne
+Lied,song
+gut gemacht,well Done
+Gast,guest
+singen,sing
+Ohrringe,earrings
+praktisch,practical
+Torte,layer cake
+Kaffeemaschine,coffe maschine
+Rosen,roses
+malen,are painting
+Pflanze,Plant
+gibt,is-makes
+gibst,are giving
+Karotte,carrot
+Kette,necklace
+geben,give
+sag,tell
+per,one
+Überraschung,suprise
+Schicken,send
+schreiben,are writing
+herzlichen Glückwunsch,congratulations
+ruf,call
+euer,your
+Jahrestag,anniversary
+anrufen,call
+rufen,calling
+neffe,nephew
+reise,trip
+Anzug,suit
+Eintrittskarten,admission Tickets
+oper,opera
+wichtig,important
+Spiele,games-plays
+aufhören,end
+anfangen,start
+U-bahn,Subway
+an,around-wearing
+stadion,stadium
+fängt,fields-catches
+treffen,are meeting
+ausverkauft,sold out
+fußballspiel,Football game
+gerade,right now
+glaube,believe
+Lieblingsband,favorite band
+mitkommen,come along
+zum,with the-to the
+siebzig,seventy
+Lieblingsteam,favorite team
+S-bahn,light rail
+post,post office
+Bäume,trees
+Cafés,coffee shops
+Schule,School
+benutzen,are using
+hoch,tall-high
+Gebäude,building
+Geschäft,store
+verheiratet,married
+unten,downstairs
+jungen,boys
+jeder,every
+dieser,this
+Bären,bears
+sitzt,is sitting
+gefährlich,dangerous
+Stadtviertel,neighborhood
+Wohnen,Apartments
+kennen,know
+Gläser,glasses
+ehemann,husband
+Ehefrau,wife
+Teller,plates
+achtzig,eighty
+ihrer,her
+fuß,foot
+seiner,her
+alle,everybody
+gebrochen,broken
+fünfzig,fifty
+achtunddreißig,thirty-eight
+siebenunddreißig,thirty-seven
+Gäste,guests
+sechsunddreißig,thirty-six
+lade,charge-invite
+lädst,are charging-invite
+einundzwanzig,twenty-one
+zweiundzwanzig,twenty-two
+ihrem,their
+seinem,her
+Platz,Space
+zur,on-with the
+Grillparty,barbecue
+am See,at the lake
+was für,what kind of
+einkaufen,to shop
+kaufst,buy-are buying
+gute Reise,have a good trip
+Gepäack,luggage
+Monanten,Months
+Abflug,departure
+jemand,someone
+wiederkommen,come back
+nichte,niece
+komödie,comedy
+zeitung,newspapers
+lieb,nice
+kinderbuch,Children's Book
+lese,am reading
+meiner,mine
+deiner,your
+ausschlafen,sleep in
+werm,Whom
+fernsehen,watch TV
+Schwarzwald,Black Forest
+zum Strand,to the Beach
+deinem,your
+meinem,my-mine
+fischen,Fish
+mir,myself
+dir,of you
+nachher,afterwards
+kochen,coocking
